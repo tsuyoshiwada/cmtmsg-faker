@@ -1,0 +1,17 @@
+language: rust
+rust:
+  - nightly
+cache: cargo
+notifications:
+  email: false
+  before_install:
+    - rustup update && cargo update
+  install:
+    - cargo update --verbose
+    - cargo build --verbose
+  script:
+    - cargo test --verbose
+deploy:
+  provider: heroku
+  api_key:
+    secure: IqkCix7v3/pK53JBGd7lxkXclcGfpGvd9aYf2do3K4I3ckhA+OWZjomi/dCiEA86tkUu2lI8KqbYPrOhqHG2N5G4yI7JowA7sYfdC1Js4jz5DWDXE3i1ML02eS60hgwRH17zc/e4ZU6zQEcQLb+xGnX8uFCK1dU5CndnexZT/YNNN+4/xOmFS4rdvQr4ekpjwwazHs+YJml3YdijgJ7Aavhxjay0shHnb0HyW5xVg+ZNsN67Q7fZ0MEFrTmComIcai/nNaAlVRzMvZMRApy6qZ4t75x8fkOzkbnxN2PLet+mCzy4Dr93zR9TSWr+Rlllz6SkkQoCWdAnQVrTypmnak6H8PBtNVJKm6sj9nylq0h5RIxepLolraGZEj3FKj/DtC/st9gBe0SxyIwZj8mE8PgUb7mPsoNJppA1Mo10R95+G6fT0aWNvYfsvCSTn+8ZHXBFV0RLee7Ee8gqCVIwaejp/a5ccmjQxrRgVuVah4H3lzfHkLy5BweKpO3I/Pvb3vrC9ntazzm0HeLAYPFPK612kpnmFALx1XFR6kCasJT6RuDKwYsgoUxO5TTNq18Vhib9GMxUtPbeZGrLZpONfRgFChFjyhmS10HVfDaLLmSob79g97ZhdkcMtnk3eALxUwbzz1FWlcs6DSBZt7nIESjpUFNf+ImqoxJkj7HRUBw=
