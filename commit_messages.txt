@@ -1,10 +1,600 @@
-TODO: This is commit message 1.
-TODO: This is commit message 2.
-TODO: This is commit message 3.
-TODO: This is commit message 4.
-TODO: This is commit message 5.
-TODO: This is commit message 6.
-TODO: This is commit message 7.
-TODO: This is commit message 8.
-TODO: This is commit message 9.
-TODO: This is commit message 10.
+'backupskip' default doesn't work for Mac
+2.0.0-canary.10
+2.6 warning: passing splat keyword arguments as a single Hash
+4.2 is still maintained
+5.0.1-canary.18
+ActionController -> Action Controller [ci skip]
+Actually use Python 3.7-dev as Travis hasn't updated it
+Add --overwrite option to rec
+Add .keep exception for storage folder
+Add 16.3.2 changelog (#12621)
+Add Bash Shell support
+Add FAQ section about KWin crash
+Add FAQ section about mouse clicks
+Add Kirschbaum Development Group Sponsor listing.
+Add PDF files to the content-types list.
+Add React 16.3.0 changelog (#12488)
+Add Router method to execute custom logic before popstate events (#3956)
+Add SES_REGION to local environment file
+Add VSCode to gitignore file
+Add WebSocket URI support to CSP DSL mappings
+Add WinFile-specific about dialog box;
+Add `fontWeight` and `fontWeightBold` settings (#2669)
+Add a FAQ for common issues
+Add a build step to hoist warning conditions (#12537)
+Add a fallback when multiprocessing is unsupported
+Add build manifest (#4119)
+Add coverage for popovers.js.
+Add coverage to estimate_recent_messages.
+Add developer documentation
+Add empty lines around code blocks
+Add events method to Asciicast class
+Add failing test for compression bug
+Add files via upload
+Add general.js.
+Add gitter badge, simplify and fix README.md.
+Add hashing configuration
+Add icon to readme; fixes issue #26 using a smaller icon.
+Add instructions for AUR (#2797)
+Add instructions to install Java 8 on macOS
+Add instructions to run via Docker
+Add link to blog article in README
+Add links to FFmpeg and LibSDL2 dependencies
+Add menu option to enable or disable the creation of  the goto index on startup (#91)
+Add message for "Not Regex" validation rule
+Add missing `require "benchmark"`
+Add missing changelog item
+Add narrow_activate.js.
+Add plugin development doc (#2770)
+Add prefer-const rule.
+Add some coverage to list_render.js.
+Add ssh url scheme handling (#2516)
+Add support for exportPathMap in development (#4094)
+Add symbols to mark the image heap's writable section and first relocated pointer
+Add test for quickly exiting process (disabled for now)
+Add the reference to Rails Guides 5.2 from the Edge Guides
+Added Cubet as a Sponsor
+Added Invoice Ninja to the readme
+Added UMD build to test renderer package (#12594)
+Added a link to list of Linux distributions. (#2475)
+Added download link to Readme (#95)
+Added winfile icon as PNG file.
+Added with-jest-typescript example (#4124)
+Align group PM unread counts with user PM unread counts.
+Allocate unique reactTags for RN and Fabric (#12587)
+Allow --coverage for individual files.
+Allow BUILD_ID to be set using `generateBuildId` (minor) (#3873)
+Allow use of minitest-rails gem with Rails test runner
+Always exclude JSON root from direct_uploads#create response
+Always treat backedge that leads to OSR entry point as taken.
+Always use the best render scale quality available
+An implementation of `sun.nio.ch.FileDispatcherImpl.allocate0` for when we need it.
+AssertionError in ContextProfile with multiple null contexts.
+Avoid multiple HTTP requests for initialization segment that is common among all representations
+Avoid pointer arithmetic on "void *"
+Avoid static imports
+Better support React 16.3.0 (#4090)
+Bring back 6.0.0-canary.2
+Bug fix
+Bump Prettier (#12622)
+Bump expiration for interactive updates to 150ms in production (#12599)
+Bump minor versions after release/4.0 branching
+Bump version
+Bump version to 1.1
+Bumped create-subscription package version (#12526)
+Bumped lockfile
+C89 check causes too much trouble
+Cache::Store#read: Fix fixed-width end tag in docs
+Change Content-Security-Policy to fix issue with pdf's.
+Change create-subscription's peerDep on react to ^16.3.0 (#12496)
+Change default colors (#2670)
+Change links to wikipedia
+Changelog for 16.3.1
+Check for pkill command before running integration tests
+Check if matched before reading value (#4096)
+Clarify ReactDOM's case warning for html tags (#12533)
+Clarify adb requirements
+Clarify javadoc of TruffleLanguage.createContext w.r.t. return value.
+Clean up emoji tests.
+Consolidate eventTypes registry with view configs (#12556)
+Correct docs on naming of sprockets manifest file
+Corrected company name everywhere
+Corrected dates
+Correction of relative links
+Correlated readme with the website content
+Correlated readme with the website content. 2
+Cursor api (#2629)
+Deprecate support for using `HOST` environment to specify server IP (#32540)
+Describe workaround to get output on Windows
+Disable VSCode type chekcing (#2767)
+Disable createRoot for open source builds (#12486)
+Disable custom SDL signal handlers
+Disable stdout/stderr buffering on Windows
+Do not leak the packet data
+Do not register app for `ssh://` url scheme handling on dev mode (#2745)
+Do not transmit strata for unknown languages.
+Document ./run script usage
+Document 32 bits packages Windows in README
+Document how to install on Fedora
+Document how to make a portable build on Windows
+Document the step to clone the project
+Documentation for polyglot_api.h.
+Don't doc _original_sum_with_required_identity
+Don't git commit noop-renderer unless package deps change (#12623)
+Don't link issue number in CHANGELOG [ci skip]
+Don't render bitmask-bailing consumers even if there's a deeper matching child (#12543)
+Don't set idle_time_limit in header if it's not set
+Drop official support for Python 3.3
+Dump protocol level changed to 6.0.
+Electron 1.8 is out (#2663)
+Enable the Stamp.readConstant tests
+Enable the Stamp.readConstant tests.
+Ensured Circle CI config works as expected (#2759)
+Ensuring that the restored window position is valid (#2459)
+Expose app.js (#4129)
+Expose component stack from reactTag to React Native renderer (#12549)
+Expose v2_header on asciicast object
+Extending README. To be continued
+Extract make_event_store().
+Extract make_new_elem().
+Extract read_fixture_data().
+Extract throw to separate function so performUnitOfWork does not deopt (#12521)
+Factorize texture creation
+First commit on improvement of README in terms of outreach
+Fix AVA tests and made them mandatory. #2705
+Fix CLI installation on Windows (#2600)
+Fix CircleCI release job
+Fix DEV performance regression by avoiding Object.assign on Fibers (#12510)
+Fix MySpace Samy worm link [ci skip]
+Fix NPE when trying to get metaObject in inspector.
+Fix SubstrateType.findInstanceFieldWithOffset.
+Fix SubstrateType.{getInstanceFields,findInstanceFieldWithOffset}
+Fix Term theme hot reloading (#2771)
+Fix `ActiveSupport::Cache` compression
+Fix a few out-of-date numbers.
+Fix a typo in the changelog.
+Fix broken link in /for/companies.
+Fix broken nodocs
+Fix color configuration with an array (#2729)
+Fix config reload after vim edit (#2718)
+Fix context stack misalignment caused by error replay (#12508)
+Fix database.yml merging
+Fix documentation of the release process (#12337)
+Fix initial cursor blinking (#2614)
+Fix issue #102 Windows 7 issue with mincore.lib by using version.lib instead  (#103)
+Fix issue #72 in a more thorough way.
+Fix links
+Fix links.
+Fix location of config dir
+Fix logging of tornado activity level.
+Fix memory leak in get_cookies.
+Fix method name in changelog
+Fix mouse clicks on LG devices
+Fix new test under python < 3.6
+Fix offscreen term size calculation (#2612)
+Fix pep-8 style violations
+Fix plugin name check (#2736)
+Fix primary problem identified in issue #87; credit goes to @BaldwinTechnology.
+Fix reading content from stdin (#8267)
+Fix reading from stdin
+Fix realloc_texture when input texture is NULL.
+Fix redis store clear keys outside the namespace
+Fix regressions in input fields.
+Fix rendering a differently-formatted partial after caching
+Fix selectAll command (#2436)
+Fix serve command (#3989)
+Fix small typos in create-subscription readme (#12399)
+Fix start with missing config fields (#2727)
+Fix switch/case code style
+Fix test to allow IF NOT EXISTS in structure:dump
+Fix text input event segfault
+Fix transparency at startup (#2689)
+Fix turbolinks warning in railties test
+Fix typos in hashes
+Fix update notification link (#2637)
+Fix using CGlobalDataFactory from a static constructor without initialized ImageSingletons
+Fix warning message
+Fix win32 build
+Fix xterm fork version (#2618)
+Fixed broken link introduced with PR #95 (#97)
+Fixed debug performance labels for new component types (#12609)
+Fixed typo (#4144)
+Fixed wrong dependency version number (#2628)
+Fixes issue #3 accounting for behavior of FixUpFileSpec.
+Fixes language in error message. (#12590)
+Focus term if needed when restoring (#2658)
+Formatting fix
+Forward double-click events
+Generate man page from markdown via pandoc
+Get pages before entry function (#4089)
+HDPI Icon
+Handle whole group of OS errors instead of only FileNotFoundError when uploading
+Immediately close the server socket on the device
+Implement clipboard paste
+Implement isArray case with LayoutEncoding methods
+Improve Windows default editor detection (#2631)
+Improve consistency of the wording of displayed messages
+Improve dependencies in README
+Improve detection of immutable objects with relocatable fields and add assertions
+Improve info message (recording vs appending)
+Improve not-yet-mounted setState warning (#12531)
+Improve rendering performance of chars with background (#2769)
+Improved spacing
+Improvement of README in terms of outreach.
+Include source root directory
+Inclusive Language in Documentation Examples [ci skip]
+Increase the number of connection attempts
+Inspired by issue #70, fixed ALL compiler warnings at /W3.
+Install on macOS via Homebrew in README
+Integrate xterm v3.2 (#2768)
+Introduce the Value#toString in polyglot_api.
+Keep UUID out of config file and call it "install ID"
+Keep consistency in the comment (#12579)
+Link to popstate doc on MDN (#4150)
+Make SESSION_REQUEST/TERM_GROUP_REQUEST hackable (#2777)
+Make checkstyle happy
+Make it work over tcpip
+Make set/delete warning condition for undefined, null and (#7818)
+Make some small tweaks to the changelog.
+Make sure hot-self-accept-loader cleans up the route correctly (#4092)
+Map middle-click to HOME
+Map numpad ENTER key
+Map right-click to BACK if screen is on
+Match externals ending in .js not everything with .js (#4091)
+Migrate styling to styled-jsx (#2761)
+Minor fixes (#12606)
+Minor improvements
+Modify the way to check Bash path
+More precise wording about config dir location
+Move TouchHistoryMath to React Native repo (#12557)
+Move context API in Changelog to "React" section
+Move incremental utf-8 decoding from async_writer to writer
+Move isolate creation to PosixOSVirtualMemoryProvider and protect read-only heap pages
+Move isolate heap creation code to VirtualMemoryProvider.
+Move takeSnapshot to RN (#12574)
+Move timestamp rounding from async_writer to writer
+Move view config registry to shims (#12569)
+Moved readme to the top-level directory
+Moved to Spectrum
+Must be *a* before PlacementAndUpdate (#12580)
+New line formating
+New timestamp server (#2825)
+Output only one nonce in CSP header per request
+Pass nonce to CSP policy from outside
+Prefix _context property on returned ReactContext from createContext - it's private (#12501)
+Preserve error codes for invariants on www (#12539)
+Prevent repetitive build job when releasing (#2787)
+Process the last video frame
+Provide SubstrateMemoryAccessProviderImpl#checkRead
+Put offscreen terms far far away (#2619)
+Redo #4090 (#4104)
+Reduce manual dynamic allocation, use std::algorithm (#43)
+Refactor code for getting chart data.
+Refactor findHostInstance and findNodeHandle (#12575)
+Refactor frames module into events module
+Reference links corrections
+Relay modern example fixes (#4120)
+Release 6.0.0-canary.1
+Remove 32 bits column (#2639)
+Remove @providesModule in www bundles (#12529)
+Remove @providesModule in www shims
+Remove ReactNativePropRegistry (#12559)
+Remove ^Z from files.
+Remove auto prefix plugin name (#2757)
+Remove black borders on double-click
+Remove deprected and refactor with-apollo-auth (#4070)
+Remove extra $ declaration.
+Remove features to output HTML to files.
+Remove flushSync from React Native (#12565)
+Remove jdk.internal.vm.compiler's use of the management API.
+Remove link for the kindle version of guides on edge
+Remove minor cruft from bots_data.js.
+Remove sass variables
+Remove unnecessary package
+Remove unneeded $ stub in compose_fade.js.
+Remove unneeded zrequire in typeahead_helper.js.
+Remove unused attr_writer :joinable on Transaction
+Remove unused literal introduced in #32602
+Remove upper bound on Capybara
+Remove useless argument
+Remove useless blocks in switch/case
+Remove useless cast
+Remove website (#2824)
+Remove white borders in collapsible sidebars.
+Removed Array.from() usage (#12546)
+Removed duplicate typeof check (#12541)
+Removing Link
+Request::HEADER_X_FORWARDED_ALL is an int
+Request::HEADER_X_FORWARDED_ALL is an integer
+Require same PHP version as framework
+Reverse horizontal scrolling behavior
+Right fix and extra notes for issue #46.
+Ruby 2.6 warning: passing splat keyword arguments as a single Hash
+Script for running integration tests on multiple distros via Docker
+Separate simple writer from async_writer
+Set MAIL_DRIVER to array in phpunit.xml
+Set showHamburgerMenu enabled by default on Linux (#2666)
+Simplify and fix node docs.
+Simplify and improve README.md
+Simplify the npm watch command
+Specify which series I'm talking about
+Speed up tests (#4102)
+Squashed commit of the following:
+Start testing on Python 3.7
+Store serial in server instance
+String.compareTo intrinsic for AArch64
+String.compareTo intrinsic.
+StringCompareToTest updates for AArch64
+Subpixel with opaque background color
+SubstrateThreadMXBean must implement com.sun.management.ThreadMXBean
+Support findNodeHandle in Fabric (#12573)
+Support screens with dimensions not divisible by 8
+Swap TERM and SHELL in v2 file format example
+The default queue "driver" is actually a "connection"
+Throw more specific error if passed undefined in React.cloneElement (#12534)
+Took a bunch of general cleanup fixes from PR #42.
+Truffle DSL annotation processor crashes with eclipse compiler 4.7.3a
+Truffle DSL annotation processor crashes with eclipse compiler 4.7.3a.
+TruffleInstrument.onDisposing() added, fixed run and dispose hooks for Inspector.
+Tweak test output
+Unfork invariant and instead use it from reactProdInvariant (#12585)
+Unify single- and multi-threaded implementations of thread-locals.
+Unlock dalli version
+Unref last packet on exit
+Unref the packet on error
+Update Collision
+Update FAQ after v1.1 release
+Update GCC (#12618)
+Update README.md
+Update Rails minor version from 5.1 to 5.2 [ci skip]
+Update Secret Types (#12635)
+Update axios
+Update bundle sizes for 16.3.2 release
+Update changelog
+Update changelog discussion of uploads auth and trusty.
+Update doc for @zeit/next-stylus (#4107)
+Update electron and electron-builder (#2632)
+Update electron to 1.8.4 (#2753)
+Update electron to v1.7.10 and other dependencies (#2583)
+Update error codes for 16.3.2 release
+Update filesystems.php
+Update links to v1.1 in README
+Update next-typescript version in custom-typescript-server example (#4130)
+Update our security policy to include all releases in the current series
+Update release checksums in README
+Update security.md with latest underground market prices
+Update to CircleCI 2 (#2758)
+Update translations.
+Update user timing to record when we are about to commit (#12384)
+Update validates_inclusion_of example
+Update version strings following 1.8.0 release.
+Update xterm.js to v3.1.0 (#2667)
+Updated example with-now-env (#4081)
+Updated icon, take 2
+Updated react-is README to show new isValidElementType()
+Updating dependencies for react-noop-renderer
+Updating package versions for release 16.3.0
+Updating yarn.lock file for 16.3.2 release
+Upgrade Babel 6 to Babel 7 (major) (#4050)
+Upgrade Next in with-firebase-hosting
+Upgrade version to 1.0
+Use GraalVMLocator to set language home properties in the AOT image.
+Use IGV build #416
+Use IGV build 416.
+Use `SecureRandom.random_bytes` instead of `SecureRandom.bytes`
+Use `encodebytes` instead of `encodestring` (deprecated since Py 3.1)
+Use composer platform config
+Use const pointers when possible
+Use frozen string literal
+Use ipfs.io instead of gateway.ipfs.io
+Use last state of xterm dynamic char atlas (#2783)
+Use last state of xterm dynamic char atlas (#2783) (#2786)
+Use lower-case info/error messages, like proper geeks
+Use object directly since webpack doesn’t parse the string (#4140)
+Use one subsection by distribution in README
+Use semver caret operator
+Use string-based fields. [ci skip]
+Use xterm webLinks addon (#2810)
+Use xterm winptyCompat addon (#2811)
+Use xterm.js's fit addon when calling fitResize (#2594)
+Use xterm@1ec7b91
+Use zjquery in hotkey.js.
+Validate React.Fragment props without Map. (#12504)
+Various improvements from PR #55.
+VimSuspend, VimResume #8280
+Words
+Workaround continuous resizing on Windows/MacOS
+Zulip server 1.8.0.
+abort on unexpected enum value (#8266)
+add CI tests on JDK 11 snapshots
+add GNUmakefile for build on mingw (#93)
+add UMD global declaration to index.d.ts (#7868)
+add argon support to create method in RegisterController
+add flac_init()
+add hashing config
+add ifdef(s) for avoiding redefine symbols (#94)
+add lowshelf and highshelf filters
+add middleware
+add missing `asyncMeta` during VNode cloning (#7861)
+add nvcc to CMDLINE_SET
+add regression test for reading ReactCurrentOwner stateNode (#12412)
+add sftp to supported storage drivers
+add stderr example
+add stl auto complete
+add wording
+added "$" in front of terminal commands
+added example of integration with videojs (#4139)
+added indirection for RuntimeMXBean.getInputArguments
+addition of @availabilityTimeOffset in MPD
+addition of muxer overhead for @bandwidth param in MPD
+addition of muxer overhead in master playlist's bandwidth
+addition of segment index correction logic
+altIsMeta support (#2623)
+avoid loosing weak loader set updates
+avoid unnecessary re-renders when computed property value did not change (#7824)
+beforeUpdate should be called before render and allow state mutation (#7822)
+better comment formating
+better existence check (#2700)
+build 2.5.16
+build 2.5.17-beta.0
+building with Ruby fails
+can disable COLOR_EMOJI with MSVC but not MinGW
+cannot sent CTRL-\ to a terminal window
+cannot specify a minimal size for a terminal window
+cannot specify which Python executable configure should use
+change API for accessing management values to be purely string based
+change env example
+change the default logging channel
+characters deleted on completion
+check +iconv for makeencoding
+children_kill_cb(): do not check elapsed time
+clarify .next in .gitignore text (#4087)
+clean shell scripts (#7826)
+clean up duplicate option fields
+cleanup channel freeing code
+compatiable to java
+compatiable to vim7.1 & rm supertab & add shortcuts about tab & compatible README to markdown
+condition always false, useless code
+constructing MPD's bandwidth string locally
+copy rw_timeout from parent to child AVIOContexts.
+correct the `has` implementation in the `_renderProxy` (#7878)
+couple of edits [ci skip]
+coverage statistics still don't work on coveralls
+crash when terminal API call deletes the buffer
+createReactNativeComponentClass needs to be CommonJS
+declarations cannot be halfway a block
+delay free so that libuv can cleanup handles
+disable debug prints on sparc
+don't use lastexitcode hack on mingw build
+enable goto with x64
+ensure init/prepatch hooks are still repsected
+extend the check for bcrypt
+facebook.github.io/react -> reactjs.org (#12545)
+filter code into stream_list.initialize().
+fix docs for Ripper.dedent_string
+fix local.mk.example (#8286)
+fix static input type being overwritten by v-bind object (#7819)
+fix styling
+fix to prevent JDT crash in latest Eclipse update
+fix uninitialize variable usage (#8261)
+fix v-show inline style rendering when style binding is array (#7814)
+fix wording
+fix wrongly matched named slots in functional components
+fix(examples/using-preact): use latest next-preact (#4152)
+fixed Eclipse formatting issue
+fixed Eclipse warnings
+forbid muxing AV1 streams until the spec is finished
+format
+formatting
+gammar
+getDerivedStateFrom{Props,Catch} should update updateQueue.baseState (#12528)
+getftype(symlink) returns 'link'
+handle :echon capture (#8265)
+help sp?it opens split()
+hide potentially unavailable types from junit
+ignore -X
+improve error messages in NativeImageGenerator.checkUniverse
+in the tutor 'showcmd' is not set
+incomplete testing for completion fix
+introduce the Value#toString in polyglot_api.h
+invoke component node create hooks before insertion (#7823)
+invoke getters on initial observation if setter defined (#7828)
+keep set dir=/
+leaking memory when autocommands make quickfix list invalid
+leftover stuff for Python 1.4
+logic to compute muxer overhead
+made GraalHotSpotVMConfig versioned
+make flow happy
+make java_base_test weekly
+make max IR length configurable
+make new warning less wordy (#12532)
+markdown syntax
+methods in polyglot_api.h
+missing newline
+mitigate process-kill race
+mkdir with 'p' flag fails on existing directory
+modify as markdown
+modify readme
+modify tab lenght change display
+modify tagbar color
+modify tagbar expirence
+move lazy initialized singleton field into JMXService
+moved use of [java,jdk].management to versioned code for JDK 11
+named slots for nested functional components
+new sponsor
+no comma after last enum item
+no configure check for the used C99 features
+no test for using the 'termsize' option
+older MSVC doesn't support declarations halfway a block
+one-shot timer instead of repeating
+only use pure ascii for TraceInlining help message to satisfy JDK compilation constraints
+packets in alphabetical order
+pass String.data, not String
+pass return values instead of discarding them
+qf_get_properties() function is too long
+re add supertab
+readme format error in markdown
+redirect stderr to fix mingw build
+reduce component mergeHook arg count
+relax test (#8289)
+release 2.5.16
+release 2.5.17-beta.0
+remove `children_stop_requests`
+remove duplicate code in test (#12620)
+remove redundant code
+remove trailing hash in webpack module identifier when
+remove unnecessary checks (#7875)
+removed "$" and changed Mac OS ---> MacOS
+removed 'write_manifest' call from 'write_header'
+removed whitespace around icon.
+rename "0.2.3" to "0.3.0" (#8268)
+render initial and used async css chunks (#7902)
+replace c++ standard library tags
+replace tags
+replaced uses of java.specification.version with GraalServices API
+replacing 'min_seg_duration' with 'seg_duration'
+report unavailable SAR correctly in stream info
+resize to the max dimensions (#8249)
+run prune after render for correct active component check
+segmentation at the configured segment duration rate
+set CMAKE_MAKE_PROGRAM iff "Unix Makefiles" (#8260)
+setting @availabilityStartTime when the first frame is ready
+ship phpunit 7 by default
+skip test49
+small adjust
+small ajust
+some non-C89 code may slip through
+stabalise README format and create-next-app usage (#4009)
+style-ci fix
+support IE11 and Edge use of "Esc" key (#7887)
+support PrintCompilation even if allocated bytes is unavailable
+support object syntax of class (#7930)
+support writing attached pictures
+support writing iTunes cover image
+suppress warnings
+switch to activate
+switched to daemon thread for polling MBean server availability
+tag v5.6.0 release notes
+term_setsize() does not give an error in a normal buffer
+term_setsize() is not implemented yet
+terminal buffer can be 1 more than 'terminalscroll' lines
+terminal debugger doesn't handle arguments
+terminal debugger doesn't handle command arguments
+terminal scrollback is not limited
+terminal scrollback test fails on MS-Windows
+test for term_setsize() does not give a good error message
+unstable_createRoot (#12487)
+update changelog
+update comment
+update handler
+update sponsors
+use "start" to test backgrounded job (#8171)
+use acp whole function
+use origin colorscheme
+use reactive components count in benchmark (#7996)
+using one item array size declaration is misleading
+webpack 4 support (#7839)
+when 'wfh' is set ":bel 10new" scrolls window
+when a timer is running a terminal window may not close
+when making a vertical split the mode message isn't updated
+writing average segment duration for @duration in template mode
